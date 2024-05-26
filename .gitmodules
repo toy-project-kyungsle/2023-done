@@ -1,0 +1,27 @@
+[submodule "bae-duo-client"]
+	path = bae-duo-client
+	url = https://github.com/toy-project-kyungsle/bae-duo-client.git
+[submodule "bae-duo-server"]
+	path = bae-duo-server
+	url = https://github.com/toy-project-kyungsle/bae-duo-server.git
+[submodule "my-blog-client"]
+	path = my-blog-client
+	url = https://github.com/toy-project-kyungsle/my-blog-client.git
+[submodule "my-blog-server"]
+	path = my-blog-server
+	url = https://github.com/toy-project-kyungsle/my-blog-server.git
+[submodule "my-blog-image-server"]
+	path = my-blog-image-server
+	url = https://github.com/toy-project-kyungsle/my-blog-image-server.git
+[submodule "extract-string"]
+	path = extract-string
+	url = https://github.com/toy-project-kyungsle/extract-string.git
+[submodule "drag-drop-puzzle"]
+	path = drag-drop-puzzle
+	url = https://github.com/toy-project-kyungsle/drag-drop-puzzle.git
+[submodule "npm-common-package"]
+	path = npm-common-package
+	url = https://github.com/toy-project-kyungsle/npm-common-package.git
+[submodule "shorten-link"]
+	path = shorten-link
+	url = https://github.com/toy-project-kyungsle/shorten-link.git
